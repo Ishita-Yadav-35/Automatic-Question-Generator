@@ -1,0 +1,5 @@
+"What is the output of the following program?
+s = 'analyst'
+for i in s:
+    print(i)
+"

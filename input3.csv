@@ -1,37 +1,5 @@
-print(len(list1))
-"list1.append(""apple"") 
-print(list1))"
-"list1.insert(1, ""dear"")
-list1.append(""python"")
-print(list1)"
-"list1.insert(1, ""dear"")
-list1.append(""python"")
-list1.insert(-1, ""dear"")
-list1.append(""java"")
-print(list1)"
-"list1.insert(1, ""dear"")
-list1.append(""python"")
-list1.insert(-1, ""dear"")
-list1.append(""java"")
-print(list1[-1])"
-"list1.insert(1, ""dear"")
-list1.append(""python"")
-list1.insert(-1, ""dear"")
-list1.append(""java"")
-print(len(list1))"
-"list1.insert(-1, ""dear"")
-list1.clear()
-list1.append(""java"")
-print(len(list1))"
-"list2=list1.copy()
-list1.insert(-1, ""dear"")
-list1.clear()
-list1.append(""java"")
-print(len(list1+list2))"
-"list2=list1.copy()
-list1.insert(-1, ""dear"")
-list1.clear()
-list1.append(""java"")
-list1.extend(list2)
-print(list1)"
-
+"What is the output of following program ?
+x = ['a', 'c','f']
+for i.1 in x:
+    i.1.upper()
+print(x)"
