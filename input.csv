@@ -1,5 +1,0 @@
-"What is the output of following program ?
-for i in range(10):
-    i++
-    print(i)
-"

@@ -1,7 +1,9 @@
 from nltk.corpus import wordnet
 from nltk.tokenize import word_tokenize
 from nltk.tokenize import sent_tokenize
+from sense2vec import Sense2Vec
 from collections import OrderedDict
+import string
 
 import nltk
 import nltk.corpus
@@ -24,4 +26,8 @@ nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger') 
 
 tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+
+from sense2vec import Sense2Vec
+
+from urllib.request import urlopen
 
