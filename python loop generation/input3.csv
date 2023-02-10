@@ -1,0 +1,5 @@
+"What is the output of following program ?
+x = ['a', 'c','f']
+for i.1 in x:
+    i.1.upper()
+print(x)"
